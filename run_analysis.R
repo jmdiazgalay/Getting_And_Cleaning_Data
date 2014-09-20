@@ -1,4 +1,3 @@
-setwd("C:/Users/hp/Desktop/Data Science Specialization/(3) Getting and Cleaning Data/Project/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset")
 
 ########################################################################################################
 ############  (1) Merging the training and the test sets to create one data set.   #####################
