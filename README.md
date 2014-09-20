@@ -20,12 +20,12 @@ Here are the data for the project:
 ## Repository Content
 
 You will be required to submit: 
-        - a tidy data set as described below, 
-        - a link to a Github repository with your script for performing the analysis, and
-        - a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md.
-        
-        This README.md  explains how all of the scripts work and how they are connected.  
+        - A tidy data set as described below, 
+        - A link to a Github repository with your script for performing the analysis, and
+        - A code book that describes the variables, the data, and any transformations or 
+          work that you performed to clean up the data called CodeBook.md.
 
+This README.md  explains how all of the scripts work and how they are connected.  
 
 ## Assignment
 
